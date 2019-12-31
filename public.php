@@ -3,7 +3,7 @@ $Default = "";
 
 //The 2 variables below just make it easier to set $hosts, they should not be used in other scripts
 $oHost = "google.com";
-$pHost = "googlerr.herokuapp.com";
+$pHost = "gooya.herokuapp.com";
 
 
 $defaultHost = "www.google.com";
